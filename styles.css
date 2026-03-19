@@ -268,7 +268,7 @@ span {
     filter: invert(1);
 }
 
-/* --- Skills List --- */
+/* --- Skills, Exploring Lists --- */
 .skills li, .exploring li {
     font-size: 1.6rem;
     margin-bottom: 1rem;
