@@ -10,15 +10,20 @@ This is my personal portfolio website built using HTML and CSS.
 
 ```
 .
-├── assets/
-│   ├── home-screenshot.png
-│   ├── main.png
-│   ├── main-mobile.png
+├── assets
 │   ├── favicon/
-│   └── icons/
-├── index.html
-├── styles.css
+│   ├── icons/
+│   │
+│   └── images
+│       ├── main.png
+│       └── screenshot-README.png
+|
 ├── README.md
+├── CNAME
+├── contact.js
+├── index.html
+└── styles.css
+
 ```
 
 ## About
